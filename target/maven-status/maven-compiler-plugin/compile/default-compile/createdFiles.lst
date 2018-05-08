@@ -1,0 +1,17 @@
+com\game\banco\dao\ParticipanteDAO.class
+com\game\banco\dao\PartidaDAO.class
+com\game\banco\model\interfaces\IJogador.class
+com\game\banco\model\Partida.class
+com\game\banco\model\interfaces\IParticipante.class
+com\game\banco\jdbc\PropriedadeJDBC.class
+com\game\banco\model\Propriedade.class
+com\game\banco\model\interfaces\IPartida.class
+com\game\banco\model\Participante.class
+com\game\banco\jdbc\JogadorJDBC.class
+com\game\banco\dao\JogadorDAO.class
+com\game\banco\jdbc\PartidaJDBC.class
+com\game\banco\Config.class
+com\game\banco\dao\PropriedadeDAO.class
+com\game\banco\jdbc\ParticipanteJDBC.class
+com\game\banco\model\Jogador.class
+com\game\banco\model\interfaces\IPropriedade.class
